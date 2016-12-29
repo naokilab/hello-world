@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi toshiya and tera!
+
+I am happy to write codes.
+
